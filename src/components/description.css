@@ -1,0 +1,26 @@
+.Description {
+  margin: 4 rem 6rem;
+}
+.Description h1 {
+  font-size: 3rem;
+}
+.first-des {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4.5rem;
+}
+.des-txt {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+}
+.des-txt p {
+  width: 80%;
+  text-align: start;
+  font-size: 1.5rem;
+}
+.des-txt h2 {
+  padding-bottom: 1rem;
+  align-items: center;
+}
